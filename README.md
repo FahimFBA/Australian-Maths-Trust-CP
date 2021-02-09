@@ -5,3 +5,4 @@
 <hr>
 
 1. Addition - [Question](Addition\Question.md) - [Answer](Addition\Answer.cpp)
+2. Sitting or Standing? - [Question](Sitting_or_Standing\Question.md) - [Answer](Sitting_or_Standing\Answer.cpp)
